@@ -7,7 +7,7 @@ This repo create a VM with Vault Enterprise and makes configuration for Vault Ag
 
 * clone this repo
 
-* place Vault Enterprise(1.5.0+prem) binary in the folder utils
+* place Vault Enterprise(1.5.0+prem) binary in the folder *utils*
 
 * start VM
 
