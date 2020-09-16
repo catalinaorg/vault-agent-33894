@@ -19,4 +19,4 @@ This repo create a VM with Vault Enterprise and makes configuration for Vault Ag
 
 * run Vault Agent
 
-` $ vault agent -config=agent-config.hcl -log-level=debug`
+` $ sudo vault agent -config=agent-config.hcl -log-level=debug`
