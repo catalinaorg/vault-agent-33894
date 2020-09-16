@@ -13,7 +13,6 @@ auto_auth {
    }
 
    sink "file" {
-       namespace="education"
        wrap_ttl="30m"
        config = {
            path = "/workstation/vault101/approleToken"
